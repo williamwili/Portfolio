@@ -2,159 +2,102 @@
   "analyticsCode": "",
   "pageLayout": "two-column",
   "basics": {
-    "name": "MiraHikari",
-    "label": "Senior Full Stack Developer",
-    "image": "/avatar.png",
-    "email": "mirahikari@gcxstudio.cn",
-    "url": "https://www.gcxstudio.cn",
-    "summary": "Born in 2010, I primarily work with TypeScript and JavaScript for full-stack development, and enjoy working with various technologies.",
-    "theme": "red",
+    "name": "William",
+    "label": "Software Engineer",
+    "image": "/avatar.JPEG",
+    "email": "williamwili1423@gmail.com",
+    "url": "https://www.williamwili.com",
+    "summary": "A final year Informatics student at Bunda Mulia University, with a strong passion for Web Development and Application Development.",
+    "theme": "cyberpunk",
     "location": {
-      "address": "Nanchang",
-      "city": "Jiangxi Province",
-      "countryCode": "CN",
-      "region": "China"
+      "address": "Apartment Permata Surya",
+      "city": "Jakarta",
+      "countryCode": "IDN",
+      "region": "Indonesia"
     },
     "profiles": [
       {
-        "network": "Bilibili",
-        "icon": "ri:bilibili-line",
-        "username": "MiraHikari",
-        "url": "https://space.bilibili.com/480025691"
+        "network": "Whatsapp",
+        "icon": "ri:whatsapp-fill",
+        "username": "William",
+        "url": "https://wa.me/6289644089598"
       },
       {
-        "network": "QQ",
-        "icon": "ri:qq-fill",
-        "username": "Gong_cx",
-        "url": "https://admin.qidian.qq.com/static_proxy/b2b-qq/wpa-link/index.html#/person?uin=3175992523"
+        "network": "Linkedin",
+        "icon": "ri:linkedin-fill",
+        "username": "williamwili",
+        "url": "https://www.linkedin.com/in/williamwili/"
+      },
+      {
+        "network": "Instagram",
+        "icon": "ri:instagram-fill",
+        "username": "williamwili",
+        "url": "https://instagram.com/williamwili_"
       },
       {
         "network": "GitHub",
         "icon": "mdi:github",
-        "username": "MiraHikari",
-        "url": "https://github.com/MiraHikari"
+        "username": "williamwili1423",
+        "url": "https://github.com/williamwili"
+      },
+      {
+        "network": "GitLab",
+        "icon": "mdi:gitlab",
+        "username": "williamwili",
+        "url": "https://gitlab.com/williamwili1423"
       }
     ],
     "beian": {
-      "mint": "赣ICP备2021005460号-1",
-      "police": "赣公网安备 36010302000349号"
+      "mint": "",
+      "police": ""
     }
-  },
-  "images": {
-    "intro": "Photography is the art of light, and images are the contours of memory.",
-    "list": [
-      {
-        "image": "https://i0.hdslb.com/bfs/article/6720a7355fd11b9666e2716cadf04e45480025691.jpg@90q_1e_1c.webp",
-        "alt": "Sunset in Nanchang",
-        "desc": "Shot on a sunny day in Nanchang. 2024.10.05"
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/82f680f56532d942f74d86801abf49ea480025691.jpg@90q_1e_1c.webp",
-        "alt": "My Cat",
-        "desc": "A Ragdoll cat who stayed for a year. She's a girl."
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/14e6ae3c368b0eddeeb2b5c338239486480025691.jpg@90q_1e_1c.webp",
-        "alt": "Emoji",
-        "desc": "True, dude"
-      },
-      {
-        "image": "https://i0.hdslb.com/bfs/article/fe1737e9d7b6c2b21eedaf60b6dc9f86480025691.jpg@90q_1e_1c.webp",
-        "alt": "Cat Kernel Crashed",
-        "desc": "Cat Kernel Crashed"
-      }
-    ]
   },
   "education": [
     {
-      "institution": "Nanchang No.27 Middle School",
-      "url": "",
-      "area": "Regular Student",
+      "institution": "Bunda Mulia University",
+      "url": "https://www.ubm.ac.id/",
+      "area": "Informatics Student",
       "studyType": "Full-time student",
-      "startDate": "2021-9-01",
+      "startDate": "2021-6-01",
       "endDate": null
     }
   ],
   "certificates": [
     {
-      "name": "Success has lived a day in the world.",
-      "date": "2010-04-14",
-      "url": "",
-      "issuer": "Myself"
-    },
-    {
-      "name": "TCCP - Senior Cloud Architecture Engineer",
-      "date": "2023-05-01",
-      "url": "",
-      "issuer": "Tencent Cloud"
+      "name": "Certificate of Competences Internship",
+      "date": "2024-12-30",
+      "url": "https://drive.google.com/file/d/1YyGnrpbLNmwTcWpSQZednJZ7KkkTnQIh/view?usp=sharing",
+      "issuer": "PT. Erajaya Swasembada"
     }
   ],
   "work": [
     {
-      "name": "Sgguo Development Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://github.com/Sgguo-Development-Team",
-      "startDate": "2022-06-01",
-      "endDate": null,
-      "summary": "Developing high-availability full-stack projects.",
+      "name": "PT. Erajaya Swasembada Tbk",
+      "position": "Software Engineer Intern",
+      "location_type": "5 months",
+      "location": "Indonesia",
+      "url": "https://www.erajaya.com/",
+      "startDate": "2024-07-06",
+      "endDate": "2024-12-30",
+      "summary": "Developed and maintain internal system for my division.",
       "highlights": [
-        "Enhanced internal workflow efficiency by 30%."
+        "Enhanced internal document shipping workflow efficiency by 30%."
       ],
       "responsibilities": [
-        "Developed and maintained backend services using Node.js and Golang."
+        "Developed and maintained system using Laravel and Flutter."
       ],
       "achievements": [
-        "Implemented a cloud drive and verification code system."
+        "Developed an internal system called Messenger Tracking System."
       ],
       "skills": {
         "PHP": "simple-icons:php",
-        "Node": "ri:nodejs-line",
-        "Golang": "simple-icons:go",
-        "Next.js": "ri:nextjs-fill",
-        "React": "mdi:react",
-        "SQL": "simple-icons:mysql",
+        "Laravel": "mdi:laravel",
+        "Flutter": "ri:flutter-fill",
+        "SQL": "simple-icons:mariadb",
         "Git": "mdi:git",
-        "GitHub": "mdi:github",
-        "NestJS": "simple-icons:nestjs",
-        "Vue": "mdi:vuejs"
-      }
-    },
-    {
-      "name": "Riddle Town Team",
-      "position": "Full-stack Developer",
-      "location_type": "Remote",
-      "location": "CN",
-      "url": "https://rth2.gcxstudio.cn",
-      "startDate": "2023-01-01",
-      "endDate": "2024-02-11",
-      "summary": "Led page design and account systems.",
-      "highlights": [
-        "Completed 95% of project content."
-      ],
-      "responsibilities": [
-        "Developed complete pages.",
-        "Integrated user-facing elements with server-side logic."
-      ],
-      "achievements": [
-        "Ensured smooth project execution."
-      ],
-      "skills": {
-        "HTML": "simple-icons:html5",
-        "CSS": "ri:css3-fill",
-        "JavaScript": "simple-icons:javascript",
-        "TypeScript": "simple-icons:typescript",
-        "Vite": "simple-icons:vite",
-        "Node": "ri:nodejs-line",
-        "Docker": "mdi:docker",
-        "WordPress": "ri:wordpress-fill",
-        "Astro": "simple-icons:astro",
-        "SQL": "simple-icons:mysql",
-        "Tailwind": "mdi:tailwind",
-        "React": "mdi:react",
-        "GitHub": "mdi:github",
-        "Git": "mdi:git"
+        "GitLab": "mdi:gitlab",
+        "HTML": "ri:html5-fill",
+        "CSS": "ri:css3-fill"
       }
     }
   ],
@@ -181,45 +124,12 @@
     {
       "name": "JavaScript",
       "icon": "simple-icons:javascript",
-      "level": "Expert",
+      "level": "Intermediate",
       "keywords": [
         "Web Development",
         "Frontend",
         "Backend",
         "Fullstack"
-      ]
-    },
-    {
-      "name": "Tailwind",
-      "icon": "mdi:tailwind",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "CSS Framework",
-        "Responsive Design"
-      ]
-    },
-    {
-      "name": "TypeScript",
-      "icon": "simple-icons:typescript",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Backend",
-        "JavaScript Superset"
-      ]
-    },
-    {
-      "name": "Node",
-      "icon": "ri:nodejs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "JavaScript",
-        "Server"
       ]
     },
     {
@@ -229,17 +139,6 @@
       "keywords": [
         "Databases",
         "SQL",
-        "Data Storage",
-        "Backend"
-      ]
-    },
-    {
-      "name": "MongoDB",
-      "icon": "simple-icons:mongodb",
-      "level": "Intermediate",
-      "keywords": [
-        "Databases",
-        "File",
         "Data Storage",
         "Backend"
       ]
@@ -266,99 +165,6 @@
       ]
     },
     {
-      "name": "Next.js",
-      "icon": "ri:nextjs-line",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "React Framework",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
-      "name": "React",
-      "icon": "mdi:react",
-      "level": "Expert",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Vue",
-      "icon": "mdi:vuejs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "JavaScript Library",
-        "UI"
-      ]
-    },
-    {
-      "name": "Docker",
-      "icon": "mdi:docker",
-      "level": "Intermediate",
-      "keywords": [
-        "Virtual Environments",
-        "Backend"
-      ]
-    },
-    {
-      "name": "NestJS",
-      "icon": "simple-icons:nestjs",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Backend",
-        "IOC"
-      ]
-    },
-    {
-      "name": "Vite",
-      "icon": "simple-icons:vite",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "Build Tool"
-      ]
-    },
-    {
-      "name": "WordPress",
-      "icon": "ri:wordpress-fill",
-      "level": "Intermediate",
-      "keywords": [
-        "PHP",
-        "Fullstack",
-        "Frontend"
-      ]
-    },
-    {
-      "name": "Golang",
-      "icon": "simple-icons:go",
-      "level": "Beginner",
-      "keywords": [
-        "Backend",
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Astro",
-      "icon": "simple-icons:astro",
-      "level": "Intermediate",
-      "keywords": [
-        "Web Development",
-        "Frontend",
-        "SSR",
-        "Static Generation"
-      ]
-    },
-    {
       "name": "PHP",
       "icon": "simple-icons:php",
       "level": "Intermediate",
@@ -369,8 +175,8 @@
       ]
     },
     {
-      "name": "Nginx",
-      "icon": "simple-icons:nginx",
+      "name": "Laravel",
+      "icon": "mdi:laravel",
       "level": "Intermediate",
       "keywords": [
         "Web Development",
@@ -379,18 +185,8 @@
       ]
     },
     {
-      "name": "Tauri",
-      "icon": "simple-icons:tauri",
-      "level": "Beginner",
-      "keywords": [
-        "Desktop App",
-        "Rust",
-        "Webview"
-      ]
-    },
-    {
-      "name": "Rust",
-      "icon": "simple-icons:rust",
+      "name": "Flutter",
+      "icon": "ri:flutter-fill",
       "level": "Beginner",
       "keywords": [
         "Desktop App",
@@ -398,17 +194,8 @@
       ]
     },
     {
-      "name": "Socket.IO",
-      "icon": "simple-icons:socketdotio",
-      "level": "Beginner",
-      "keywords": [
-        "Realtime",
-        "Websocket"
-      ]
-    },
-    {
-      "name": "Electron",
-      "icon": "simple-icons:electron",
+      "name": "Kotlin",
+      "icon": "simple-icons:kotlin",
       "level": "Beginner",
       "keywords": [
         "Desktop App",
@@ -416,57 +203,12 @@
       ]
     },
     {
-      "name": "Shell",
-      "icon": "simple-icons:shell",
-      "level": "Intermediate",
+      "name": "Java",
+      "icon": "ri:java-fill",
+      "level": "Beginner",
       "keywords": [
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Linux",
-      "icon": "simple-icons:linux",
-      "level": "Intermediate",
-      "keywords": [
-        "OS",
-        "Scripting",
-        "Automation"
-      ]
-    },
-    {
-      "name": "Vercel",
-      "icon": "simple-icons:vercel",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Netlify",
-      "icon": "simple-icons:netlify",
-      "level": "Intermediate",
-      "keywords": [
-        "Serverless",
-        "Static Site Hosting"
-      ]
-    },
-    {
-      "name": "Tencent Cloud",
-      "icon": "simple-icons:tencentqq",
-      "level": "Intermediate",
-      "keywords": [
-        "Cloud Service"
-      ]
-    },
-    {
-      "name": "Cloudflare Edge Functions",
-      "icon": "simple-icons:cloudflare",
-      "level": "Expert",
-      "keywords": [
-        "Serverless",
-        "Edge Computing"
+        "Desktop App",
+        "Webview"
       ]
     }
   ],
@@ -491,44 +233,66 @@
   ],
   "references": [
     {
-      "name": "MiraHikari",
+      "name": "William",
       "reference": "Reference…"
     }
   ],
   "projects": [
     {
-      "name": "Cloudflare Vmail",
+      "name": "Messenger Tracking System",
       "image": {
-        "url": "https://i0.hdslb.com/bfs/article/985e2caa8266dee4b9861ee6a341886d480025691.png@1e_1c.webp",
-        "position": "container",
-        "dark": "https://i0.hdslb.com/bfs/article/4d0bf8a784d22e54e3e61763c361c9ef480025691.png@100q_1e_1c.webp"
+        "url": "https://i.imgur.com/AngMVWv.png",
+        "position": "container"
       },
       "isActive": true,
-      "description": "An open source temporary email tool, fully on Cloudflare. Inspired by oiov/vmail",
+      "description": "An internal system for document shipping at Erajaya",
       "highlights": [
-        "🎯 Privacy-friendly, no registration required, out-of-the-box",
-        "✨ Support saving passwords and retrieving email addresses",
-        "😄 Support multiple domain name suffixes",
-        "🚀 100% open source, fully based on Cloudflare."
+        "🚀 Stack : Laravel, Flutter, SQL"
       ],
-      "url": "https://what-the-fuck.sbs",
+      "url": "https://ga.erajaya.com/messenger",
       "github": "https://github.com/MiraHikari/cloudflare-vmail"
     },
     {
-      "name": "Riddle Town Hunt 2",
+      "name": "BookHub",
       "image": {
-        "url": "https://rth2-webstatic.gbclstudio.cn/wp-content/uploads/2024/02/1707656250-76b2b0d2c94824e89a2b8b2c7d1c6afe.png",
-        "position": "background"
+        "url": "https://i.imgur.com/xSJB7Yg.png",
+        "position": "container"
       },
-      "isActive": false,
-      "description": "Public decryption activity in the form of Puzzle Hunt.",
+      "isActive": true,
+      "description": "An innovative Android application designed to streamline the process of borrowing and returning books for members",
       "highlights": [
-        "👌 More than 1000 people participated, system runs normally",
-        "😮‍ Use headless CMS: WordPress to storage and manage contents, dynamically render page",
-        "😊 Windows-like interface",
-        "💕 Based on Astro"
+          "🚀 Stack : PHP Native, Kotlin"
       ],
-      "url": "https://rth2.gcxstudio.cn/"
+      "url": "https://github.com/KangBubur1/uas_mobile",
+      "github": "https://github.com/KangBubur1/uas_mobile"
+    },
+    {
+      "name": "Swish",
+      "image": {
+        "url": "https://i.imgur.com/C1bNao5.png",
+        "position": "container"
+      },
+      "isActive": true,
+      "description": "A dynamic and immersive online platform that revolutionizes the shoe shopping experience",
+      "highlights": [
+        "🚀 Stack : HTML, BootStrap 5, CSS"
+      ],
+      "url": "https://github.com/williamwili/swish",
+      "github": "https://github.com/williamwili/swish"
+    },
+    {
+      "name": "Healthy Food",
+      "image": {
+        "url": "https://i.imgur.com/Ygk8umh.png",
+        "position": "container"
+      },
+      "isActive": true,
+      "description": "A comprehensive web-based platform designed to streamline employee data management and performace evaluaion",
+      "highlights": [
+        "🚀 Stack : PHP, MYSql, HTML, BootStrap 5"
+      ],
+      "url": "https://github.com/KangBubur1/karyawan",
+      "github": "https://github.com/KangBubur1/karyawan"
     }
   ]
 }
